@@ -2,6 +2,7 @@
 - 👀 I’m interested in know new stuff and travel around
 - 🌱 Learning React 
 - 📫 How to reach me @J0zx (twitter)
+- 👨🏻‍💻 I've worked with Angular and Java years ago
 
 <!---
 Jozx/Jozx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

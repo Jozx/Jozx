@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jozx
 - 👀 I’m interested in know new stuff and travel around
-- 🌱 I’m currently learning mobile dev (kotlin, swift)
+- 🌱
 - 📫 How to reach me @J0zx (twitter)
 
 <!---

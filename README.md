@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jozx
 - 👀 I’m interested in know new stuff and travel around
-- 🌱 Learning React 
+- 
 - 📫 How to reach me @J0zx (twitter)
 - 👨🏻‍💻 I've worked with Angular and Java years ago
 
